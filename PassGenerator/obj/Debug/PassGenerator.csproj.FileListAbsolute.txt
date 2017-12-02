@@ -1,0 +1,13 @@
+c:\Projects\PassGenerator\PassGenerator\bin\Debug\PassGenerator.exe.config
+c:\Projects\PassGenerator\PassGenerator\bin\Debug\PassGenerator.exe
+c:\Projects\PassGenerator\PassGenerator\bin\Debug\PassGenerator.pdb
+c:\Projects\PassGenerator\PassGenerator\obj\Debug\PassGenerator.csprojResolveAssemblyReference.cache
+c:\Projects\PassGenerator\PassGenerator\obj\Debug\PassGenerator.exe
+c:\Projects\PassGenerator\PassGenerator\obj\Debug\PassGenerator.pdb
+F:\Projects\PassGenerator\PassGenerator\bin\Debug\PassGenerator.exe.config
+F:\Projects\PassGenerator\PassGenerator\bin\Debug\PassGenerator.exe
+F:\Projects\PassGenerator\PassGenerator\bin\Debug\PassGenerator.pdb
+F:\Projects\PassGenerator\PassGenerator\obj\Debug\PassGenerator.csprojResolveAssemblyReference.cache
+F:\Projects\PassGenerator\PassGenerator\obj\Debug\PassGenerator.csproj.CoreCompileInputs.cache
+F:\Projects\PassGenerator\PassGenerator\obj\Debug\PassGenerator.exe
+F:\Projects\PassGenerator\PassGenerator\obj\Debug\PassGenerator.pdb
